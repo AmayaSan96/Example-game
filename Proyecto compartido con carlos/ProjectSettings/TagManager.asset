@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Fondo
+    uniqueID: 1895691075
+    locked: 0
+  - name: Parallax
+    uniqueID: 2783135531
+    locked: 0
+  - name: Terreno
+    uniqueID: 3450013527
+    locked: 0
+  - name: Players
+    uniqueID: 865151279
+    locked: 0
